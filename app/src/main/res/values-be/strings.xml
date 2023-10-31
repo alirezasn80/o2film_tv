@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Загрузка…</string>
+    <string name="lbl_search">Пошук</string>
+    <string name="lbl_loading_elipses">Загрузка…</string>
+    <string name="lbl_other">Іншае</string>
+    <string name="btn_cancel">Адмяніць</string>
+    <string name="video_error_unknown_error">Не ўдалося загрузіць відэа</string>
+    <string name="pref_playback">Прайграванне</string>
+    <string name="pref_authentication_cat">Аўтэнтыфікацыя</string>
+    <string name="chapters">Раздзелы</string>
+    <string name="lbl_settings">Налады</string>
+    <string name="lbl_genres">Жанры</string>
+    <string name="lbl_favorites">Абранае</string>
+    <string name="lbl_movies">Фільмы</string>
+    <string name="lbl_pause">Паўза</string>
+    <string name="lbl_cancel">Адмяніць</string>
+    <string name="lbl_yes">Так</string>
+    <string name="lbl_continue_watching">Працягнуць прагляд</string>
+    <string name="lbl_next_up">Далей</string>
+    <string name="lbl_on_now">Зараз</string>
+    <string name="lbl_by_name">Па імені</string>
+    <string name="lbl_other_channels">Іншыя каналы</string>
+    <string name="lbl_tv_series">Серыялы</string>
+    <string name="settings_title">Налады</string>
+    <string name="byletter_letters">АБВГДЕЁЖЗІЙКЛМНОПРСТУЎФХЦЧШЫЬЭЮЯ</string>
+    <string name="state_disabled">Адключана</string>
+    <string name="lbl_views">Прагляды</string>
+    <string name="pref_max_bitrate_title">Максімальны бітрэйт трансляцыі</string>
+    <string name="msg_not_implemented">" не рэалізована"</string>
+    <string name="lbl_suggested">Прапанованае</string>
+    <string name="lbl_status">%1$s / %2$s</string>
+    <string name="lbl_play">Прайграць</string>
+    <string name="lbl_by_letter">Па літарах</string>
+    <string name="lbl_coming_up">Наступнае</string>
+    <string name="lbl_favorite_channels">Абраныя каналы</string>
+    <string name="lbl_play_all">Прайграць усё</string>
+    <string name="lbl_cancel_recording">Адмяніць запіс</string>
+    <string name="lbl_latest">Нядаўна дададзенае</string>
+    <string name="lbl_latest_in">Нядаўна дадазенае ў %1$s</string>
+    <string name="lbl_collections">Калекцыі</string>
+</resources>

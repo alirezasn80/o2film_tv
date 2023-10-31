@@ -1,0 +1,3 @@
+Kiitos kun käytät Jellyfiniä Android TV:llä! Uusimman Jellyfin-palvelimen version käyttäminen on aina suositeltavaa.
+
+Lisätietoja löydät blogistamme jellyfin.org-sivustolta ja täydellinen muutoshistoria löytyy GitHubista.
